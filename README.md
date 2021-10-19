@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tingriley
 - 👀 I’m interested in C/C++/Python and spoken languages
 - 🌱 I’m currently learning CNN
-- 💞️ I’m looking to collaborate on Deep learning
+- 💞️ I’m looking to collaborate on Godot game engine projects
 - 📫 How to reach me tingnichen@gmail.com
 
 <!---
