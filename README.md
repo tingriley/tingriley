@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tingriley
-- 👀 I’m interested in C/C++/Python/spoken languages and video games
+- 👀 I’m interested in C/C++/Python, and video games
 - 🌱 I’m currently learning CNN
 - 💞️ I’m looking to collaborate on Godot game engine projects
 - 📫 How to reach me tingnichen@gmail.com
