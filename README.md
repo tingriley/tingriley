@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tingriley
-- 👀 I’m interested in C/C++/Python, and languages.
-- 🌱 I’m currently more advanced algorithms for competitive programming.
+- 👀 I’m interested in C/C++/Python, and learning languages.
+- 🌱 I’m currently learning more advanced algorithms for competitive programming.
 - 📫 How to reach me handsomepot@gmail.com
 
 <!---
